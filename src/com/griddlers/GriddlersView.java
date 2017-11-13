@@ -41,7 +41,7 @@ class GriddlersView
 	 */
 	private JLabel timeOnScreen;
 	/**
-	 * Filed storing ID of current puzzle
+	 * Field storing ID of current puzzle
 	 */
 	private int presentID;
 	
